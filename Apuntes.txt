@@ -1,0 +1,5 @@
+COMO LEVANTAR EL PROYECTO 
+php -S localhost:8000 -t presentacion
+
+EN EL NAVEGADOR 
+http://localhost:8000/Login.php
